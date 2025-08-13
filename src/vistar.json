@@ -1,0 +1,324 @@
+{
+	"LARGER1": {
+		"name": "SPS LARGER 1",
+		"img": "https://vistar-capture.s3.cern.ch/larger1.png",
+		"refreshrate": 1100,
+		"ext_refreshrate": 6000,
+		"lgbk": 424
+	},
+	"CPS": {
+		"name": "CPS",
+		"img": "https://vistar-capture.s3.cern.ch/cps.png",
+		"refreshrate": 1100,
+		"ext_refreshrate": 6000,
+		"lgbk": 683
+	},
+	"GPS": {
+		"name": "GPS",
+		"img": "https://vistar-capture.s3.cern.ch/gps.png",
+		"refreshrate": 1100,
+		"ext_refreshrate": 6000,
+		"lgbk": 603
+	},
+	"HRS": {
+		"name": "HRS",
+		"img": "https://vistar-capture.s3.cern.ch/hrs.png",
+		"refreshrate": 1100,
+		"ext_refreshrate": 6000,
+		"lgbk": 605
+	},
+	"LEIR": {
+		"name": "LEIR",
+		"img": "https://vistar-capture.s3.cern.ch/leir.png",
+		"refreshrate": 1100,
+		"ext_refreshrate": 6000,
+		"lgbk": 642
+	},
+	"LHC1": {
+		"name": "LHC Page 1",
+		"img": "https://vistar-capture.s3.cern.ch/lhc1.png",
+		"refreshrate": 8000,
+		"ext_refreshrate": 10000,
+		"lgbk": 322
+	},
+	"LHC2": {
+		"name": "LHC Cryogenics",
+		"img": "https://vistar-capture.s3.cern.ch/lhc2.png",
+		"refreshrate": 8000,
+		"ext_refreshrate": 10000,
+		"lgbk": 322
+	},
+	"LHC3": {
+		"name": "LHC Operation",
+		"img": "https://vistar-capture.s3.cern.ch/lhc3.png",
+		"refreshrate": 5000,
+		"ext_refreshrate": 5000,
+		"lgbk": 322
+	},
+	"LHCCOLLI": {
+		"name": "LHC Collimators Summary",
+		"img": "https://vistar-capture.s3.cern.ch/lhccolli.png",
+		"refreshrate": 1100,
+		"ext_refreshrate": 6000,
+		"lgbk": 322
+	},
+	"LHCCONFIG": {
+		"name": "LHC Configuration",
+		"img": "https://vistar-capture.s3.cern.ch/lhcconfig.png",
+		"refreshrate": 1100,
+		"ext_refreshrate": 6000,
+		"lgbk": 322
+	},
+	"LHCCMS": {
+		"name": "LHC CMS Experiment",
+		"img": "https://vistar-capture.s3.cern.ch/cms.png",
+		"refreshrate": 15000,
+		"ext_refreshrate": 15000,
+		"lgbk": 322
+	},
+	"LARGER2": {
+		"name": "SPS LARGER 2",
+		"img": "https://vistar-capture.s3.cern.ch/larger2.png",
+		"refreshrate": 1100,
+		"ext_refreshrate": 6000,
+		"lgbk": 322
+	},
+	"LHCLUMINOSITY": {
+		"name": "LHC Luminosity",
+		"img": "https://vistar-capture.s3.cern.ch/lhclumi.png",
+		"refreshrate": 1100,
+		"ext_refreshrate": 6000,
+		"lgbk": 322
+	},
+	"LHCEXPMAG": {
+		"name": "LHC Exp Magnets",
+		"img": "https://vistar-capture.s3.cern.ch/lhcexpmag.png",
+		"refreshrate": 1100,
+		"ext_refreshrate": 6000,
+		"lgbk": 322
+	},
+	"LHCBDS": {
+		"name": "LHC Beam Dump",
+		"img": "https://vistar-capture.s3.cern.ch/lhcbds.png",
+		"refreshrate": 2000,
+		"ext_refreshrate": 6000,
+		"lgbk": 322
+	},
+	"LHCCOLLB1": {
+		"name": "LHC Collimator Beam 1",
+		"img": "https://vistar-capture.s3.cern.ch/lhccolli1.png",
+		"refreshrate": 1100,
+		"ext_refreshrate": 6000,
+		"lgbk": 322
+	},
+	"LHCCOLLB2": {
+		"name": "LHC Collimator Beam 2",
+		"img": "https://vistar-capture.s3.cern.ch/lhccolli2.png",
+		"refreshrate": 1100,
+		"ext_refreshrate": 6000,
+		"lgbk": 322
+	},
+	"LHCfExperiment": {
+		"name": "LHCf Experiment",
+		"img": "https://vistar-capture.s3.cern.ch/lhcf.png",
+		"refreshrate": 1100,
+		"ext_refreshrate": 6000,
+		"lgbk": 322
+	},
+	"LIN": {
+		"name": "Linac 3 FD",
+		"img": "https://vistar-capture.s3.cern.ch/lisis.png",
+		"refreshrate": 1100,
+		"ext_refreshrate": 6000,
+		"lgbk": 21
+	},
+	"PEA": {
+		"name": "CPS EAST Area",
+		"img": "https://vistar-capture.s3.cern.ch/pea.png",
+		"refreshrate": 1100,
+		"ext_refreshrate": 6000,
+		"lgbk": 683
+	},
+	"PSB": {
+		"name": "PSB",
+		"img": "https://vistar-capture.s3.cern.ch/psb.png",
+		"refreshrate": 1100,
+		"ext_refreshrate": 6000,
+		"lgbk": 503
+	},
+	"LARGER4": {
+		"name": "SPS LARGER 4",
+		"img": "https://vistar-capture.s3.cern.ch/larger4.png",
+		"refreshrate": 1100,
+		"ext_refreshrate": 6000,
+		"lgbk": 424
+	},
+	"SPS1": {
+		"name": "SPS Page 1",
+		"img": "https://vistar-capture.s3.cern.ch/sps1.png",
+		"refreshrate": 1200,
+		"ext_refreshrate": 7000,
+		"lgbk": 424
+	},
+	"LHCBSRT": {
+		"name": "LHC BSRT",
+		"img": "https://vistar-capture.s3.cern.ch/lhcbsrt.png",
+		"refreshrate": 1100,
+		"ext_refreshrate": 6000,
+		"lgbk": 322
+	},
+	"LARGER3": {
+		"name": "SPS LARGER 3",
+		"img": "https://vistar-capture.s3.cern.ch/larger3.png",
+		"refreshrate": 1100,
+		"ext_refreshrate": 6000,
+		"lgbk": 424
+	},
+	"ADE": {
+		"name": "ADE",
+		"img": "https://vistar-capture.s3.cern.ch/ade.png",
+		"refreshrate": 1100,
+		"ext_refreshrate": 3000,
+		"lgbk": 1321
+	},
+	"CLEAR": {
+		"name": "CLEAR",
+		"img": "https://vistar-capture.s3.cern.ch/cleargen.png",
+		"refreshrate": 1100,
+		"ext_refreshrate": 6000,
+		"lgbk": 100
+	},
+	"T9_CPS_EAST": {
+		"name": "T9 BLFS",
+		"img": "https://vistar-capture.s3.cern.ch/t9blfs.png",
+		"refreshrate": 3000,
+		"ext_refreshrate": 3000,
+		"lgbk": ""
+	},
+	"LHCRFTiming": {
+		"name": "LHC RF Timing",
+		"img": "https://vistar-capture.s3.cern.ch/lhcrftiming.png",
+		"refreshrate": 2000,
+		"ext_refreshrate": 2000,
+		"lgbk": ""
+	},
+	"CPSBLM": {
+		"name": "CPS BLM",
+		"img": "https://vistar-capture.s3.cern.ch/cpsblm.png",
+		"refreshrate": 500,
+		"ext_refreshrate": 5000,
+		"lgbk": 683
+	},
+	"Linac3": {
+		"name": "Linac 3",
+		"img": "https://vistar-capture.s3.cern.ch/ln3.png",
+		"refreshrate": 1200,
+		"ext_refreshrate": 5000,
+		"lgbk": 21
+	},
+	"SPSBT": {
+		"name": "SPS BT",
+		"img": "https://vistar-capture.s3.cern.ch/spsbt.png",
+		"refreshrate": 5000,
+		"ext_refreshrate": 10000,
+		"lgbk": 424
+	},
+	"PSBBLM": {
+		"name": "PSB BLM",
+		"img": "https://vistar-capture.s3.cern.ch/psbblm.png",
+		"refreshrate": 1200,
+		"ext_refreshrate": 10000,
+		"lgbk": 503
+	},
+	"Linac4": {
+		"name": "Linac 4",
+		"img": "https://vistar-capture.s3.cern.ch/ln4.png",
+		"refreshrate": 1000,
+		"ext_refreshrate": 1000,
+		"lgbk": 221
+	},
+	"AwakePlasma": {
+		"name": "Awake Plasma",
+		"img": "https://vistar-capture.s3.cern.ch/awakeplasma.png",
+		"refreshrate": 1000,
+		"ext_refreshrate": 1000,
+		"lgbk": ""
+	},
+	"AwakeProton": {
+		"name": "Awake Proton",
+		"img": "https://vistar-capture.s3.cern.ch/awakeproton.png",
+		"refreshrate": 1000,
+		"ext_refreshrate": 1000,
+		"lgbk": ""
+	},
+	"Awake": {
+		"name": "Awake",
+		"img": "https://vistar-capture.s3.cern.ch/awake.png",
+		"refreshrate": 2000,
+		"ext_refreshrate": 5000,
+		"lgbk": ""
+	},
+	"SPSBSRT": {
+		"name": "SPS BSRT",
+		"img": "https://vistar-capture.s3.cern.ch/spsbsrt.png",
+		"refreshrate": 2000,
+		"ext_refreshrate": 5000,
+		"lgbk": 424
+	},
+	"LHCRomanPots": {
+		"name": "LHC Roman Pots",
+		"img": "https://vistar-capture.s3.cern.ch/lhcromanpots.png",
+		"refreshrate": 2000,
+		"ext_refreshrate": 2000,
+		"lgbk": 322
+	},
+	"CPSSpare": {
+		"name": "CPS Spare",
+		"img": "https://vistar-capture.s3.cern.ch/cps2.png",
+		"refreshrate": 2000,
+		"ext_refreshrate": 2000,
+		"lgbk": ""
+	},
+	"SPSFastBCT": {
+		"name": "SPS Fast BCT",
+		"img": "https://vistar-capture.s3.cern.ch/spsbctf.png",
+		"refreshrate": 1200,
+		"ext_refreshrate": 7000,
+		"lgbk": 424
+	},
+	"ELENA": {
+		"name": "ELENA",
+		"img": "https://vistar-capture.s3.cern.ch/elena.png",
+		"refreshrate": 1200,
+		"ext_refreshrate": 5000,
+		"lgbk": ""
+	},
+	"LHCATLAS": {
+		"name": "LHC ATLAS",
+		"img": "https://vistar-capture.s3.cern.ch/atlas.png",
+		"refreshrate": 15000,
+		"ext_refreshrate": 15000,
+		"lgbk": 322
+	},
+	"PS2SPS1": {
+		"name": "CPS to SPS 1",
+		"img": "https://vistar-capture.s3.cern.ch/ps2sps1.png",
+		"refreshrate": 1100,
+		"ext_refreshrate": 6000,
+		"lgbk": 505
+	},
+	"PS2SPS2": {
+		"name": "CPS to SPS 2",
+		"img": "https://vistar-capture.s3.cern.ch/ps2sps2.png",
+		"refreshrate": 1100,
+		"ext_refreshrate": 6000,
+		"lgbk": 505
+	},
+	"ACCRTT": {
+		"name": "ACC RT for visitors",
+		"img": "https://vistar-capture.s3.cern.ch/accpoprt.png",
+		"refreshrate": 1100,
+		"ext_refreshrate": 6000,
+		"lgbk": ""
+	}
+}

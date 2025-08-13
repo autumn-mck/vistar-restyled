@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+		<title>Vistars (Restyled)</title>
+		<link rel="stylesheet" href="/src/style.css" />
+	</head>
+	<body>
+		<div id="bar">
+			<div id="controls">
+				<span>Source:</span>
+				<select id="source"></select>
+				<button id="scale">Scale: Fit</button>
+				<a
+					id="infoLink"
+					target="_blank"
+					rel="noopener noreferrer"
+					title="Open documentation (may 404)"
+					>INFO</a
+				>
+			</div>
+			<div id="details"></div>
+		</div>
+
+		<div id="viewer" class="fit">
+			<img id="img" />
+		</div>
+
+		<script type="module" src="/src/main.ts" defer></script>
+	</body>
+</html>
