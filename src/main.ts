@@ -99,11 +99,13 @@ function bindEvents() {
 }
 
 function init() {
-	Object.keys(data).forEach((key) => {
-		const opt = document.createElement("option");
-		opt.value = key;
-		opt.textContent = data[key].name;
-		select.appendChild(opt);
+	Object.keys(data)
+		.sort()
+		.forEach((key) => {
+			const opt = document.createElement("option");
+			opt.value = key;
+			opt.textContent = data[key].name;
+			select.appendChild(opt);
 	});
 	select.value = currentKey;
 
