@@ -63,7 +63,7 @@ function showUi(visible = true) {
 function updateUi() {
 	const entry = data[currentKey];
 	infoLink.href = `https://op-webtools.web.cern.ch/vistar/Doc/${currentKey}.pdf`;
-	details.textContent = `Refresh: ${entry.refreshrate} ms • Mode: ${currentMode}`;
+	details.textContent = `Refresh: ${entry.refreshrate} ms`;
 	scaleBtn.textContent = `Scale: ${currentMode === "fit" ? "Fit" : "Cover"}`;
 	img.className = currentMode;
 }
